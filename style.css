@@ -18,7 +18,6 @@ body {
 
 header {
 	height: 90vh;
-	/* background: #000; */
 }
 .black {
 	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
@@ -227,7 +226,7 @@ a, button {
 	opacity: 1;
 }
 /*Common things in all sections*/
-#about_section, #portfolio_section, #team_section, #services_section, #contactus_section {
+#about_section, #team_section, #contactus_section {
 	font-family: 'Open Sans', sans-serif;
 	color: #2E3D49;
 	position: relative;
@@ -246,7 +245,7 @@ a, button {
 }
 
 /*PORTFOLIO*/
-.extra {
+/* .extra {
 	width: 100%;
 }
 .extra p {
@@ -288,7 +287,7 @@ a, button {
 	font-size: 20px;
 	color: #272529;
 	font-family: cursive;
-}
+} */
 
 /*Title*/
 .title {
@@ -393,7 +392,7 @@ a, button {
 }
 .totalcard .card {
 	margin: 50px;
-	width: 300px;
+	width: 400px;
 	border-radius: 10px;
 	background: #fff;
 }
@@ -407,11 +406,25 @@ a, button {
 .card:nth-child(2){
 	border-top: 5px solid blue;
 }
+.card:nth-child(3){
+	border-top: 5px solid green;
+}
+.card:nth-child(4){
+	border-top: 5px solid blue;
+}
 .card:nth-child(1):hover {
 	box-shadow: inset 0px 0px 10px rgba(0,255,0,0.5),
 				1px 1px 30px rgba(0,255,0,0.5);
 }
 .card:nth-child(2):hover {
+	box-shadow: inset 0px 0px 10px rgba(0,0,255,0.5),
+				1px 1px 30px rgba(0,0,255,0.5);
+}
+.card:nth-child(3):hover {
+	box-shadow: inset 0px 0px 10px rgba(0,255,0,0.5),
+				1px 1px 30px rgba(0,255,0,0.5);
+}
+.card:nth-child(4):hover {
 	box-shadow: inset 0px 0px 10px rgba(0,0,255,0.5),
 				1px 1px 30px rgba(0,0,255,0.5);
 }
@@ -454,11 +467,19 @@ a, button {
 	margin-left: 90px;
 	align-self: center;
 }
-.btn-roshan:hover {
+.btn-tjaya:hover {
 	background: rgba(0,255,0,0.7);
 	color: #fff;
 }
-.btn-roshan2:hover {
+.btn-sidhi:hover {
+	background: rgba(0,0,255,0.5);
+	color: #fff;
+}
+.btn-shra:hover {
+	background: rgba(0,255,0,0.7);
+	color: #fff;
+}
+.btn-poo:hover {
 	background: rgba(0,0,255,0.5);
 	color: #fff;
 }
@@ -470,8 +491,7 @@ a, button {
 }
 
 /*Service Section*/
-/*Service Section*/
-.service-swipe {
+/* .service-swipe {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
@@ -509,7 +529,7 @@ a, button {
 .service-swipe .s-card:hover {
 	box-shadow: 0 0 50px rgba(255,255,255,0.8);
 	transform: translateY(-10px);
-}
+} */
 
 /*Contact Us Section*/
 .csec {
