@@ -26,12 +26,6 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #DF2771; 
 }
-
-/*TITLE*/
-/* .title {
-	margin-top: 150px;
-	margin-left: 100px;
-} */
 .title span{
 	font-weight: 700;
 	font-family: 'Open Sans', sans-serif;
