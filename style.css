@@ -24,7 +24,7 @@ header {
 }
 nav {
 	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 	top: 0;
 	position: fixed;
 	display: flex;
@@ -61,10 +61,6 @@ nav ul li a:hover {
 	background: #DF2771;
 }
 
-.srch img {
-	width: 25px;
-	cursor: pointer;
-}
 .get-started {
 	margin-left: 50px;
 	padding: 5px 20px;
@@ -177,16 +173,15 @@ a, button {
 	color: #FFF;
 	width: 100%;
 	font-size: 1em;
-	/* background: #2E3D49; */
 	text-decoration: none;
 	padding: 15px 0px;
 }
-.close img{
+/* .close img{
 	float: right;
 	width: 35px;
 	cursor: pointer;
 	margin: 10px;
-}
+} */
 .user {
 	display: flex;
 	justify-content: center;
@@ -216,7 +211,6 @@ a, button {
 }
 .diffSection {
 	width: 100%;
-	/*position: relative;*/
 	justify-content: center;
 	align-items: center;
 }
@@ -606,6 +600,7 @@ footer {
 	background: #000D;
 	padding: 50px 0; 
 }
+
 footer .footer-container {
 	max-width: 1300px;
 	margin: auto;
@@ -615,18 +610,27 @@ footer .footer-container {
 	align-items: center;
 	flex-wrap: wrap-reverse;
 }
+
 footer .social-media img{
 	width: 22px;
 }
+
 footer .logo {
 	width: 180px;
 	color: #fff;
+	font-family: 'Montserrat', cursive;
 }
+footer .social-media{
+	margin: 20px 0;
+}
+
 footer .social-media a{
+	color: #001a21;
 	margin-right: 10px;
 	font-size: 22px;
 	text-decoration: none;
 }
+
 footer .right-col h1{
 	font-size: 26px;
 }
@@ -636,6 +640,7 @@ footer .border{
 	background: linear-gradient(to right, #FA4B37, #DF2771);
 	margin: 2px;
 }
+
 footer .newsletter-form {
 	display: flex;
 	justify-content: center;
@@ -658,6 +663,7 @@ footer .txtb {
 	margin-top: 20px;
 	color: white;
 }
+
 footer .btn {
 	margin-top: 20px;
 	padding: 18px 40px;
@@ -672,10 +678,10 @@ footer .btn {
 	cursor: pointer;
 	transition: opacity .3s linear;	
 }
+
 footer .btn:hover {
 	opacity: .7;
 }
-
 /*PROPERTIES FOR MAKING WEBSITE RESPONSIVE*/
 @media screen and (max-width: 960px) {
 	.footer-container {
