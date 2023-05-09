@@ -115,7 +115,6 @@ a, button {
 .quote .play {
 	margin-top: 20px;
 	display: flex;
-	/* justify-content: center; */
 	align-items: center;
 }
 .quote .play img {
@@ -133,75 +132,6 @@ a, button {
 .svg-image img{
 	width: 500px;
 	filter: drop-shadow(0 20px 10px rgba(0,0,0,0.2));
-}
-
-/* SIDE MENU */
-.menu {
-	cursor: pointer;
-	width: 25px;
-	display: none;
-}
-.side-menu {
-	width: 100%;
-	height: 100%;
-	background: rgba(182, 33, 90, 0.993);
-	position: absolute;
-	top: 0;
-	transition: .8s;
-	z-index: 2000;
-	transform: translateX(-100%);
-}
-.side-menu ul {
-	margin-top: 35%;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	/* background: #FA4B37; */
-}
-.side-menu ul li {
-	list-style: none;
-	/* background: #009900; */
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.side-menu ul li:hover a{
-	background: #fff;
-	color: #DF2771;
-}
-.side-menu ul li a{
-	color: #FFF;
-	width: 100%;
-	font-size: 1em;
-	text-decoration: none;
-	padding: 15px 0px;
-}
-/* .close img{
-	float: right;
-	width: 35px;
-	cursor: pointer;
-	margin: 10px;
-} */
-.user {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-top: 10%;
-}
-.user img {
-	width: 60px;
-	border-radius: 50%;
-	border: 2px solid #fff;
-	filter: drop-shadow(0 10px 20px #0004);
-	margin-right: 30px;
-	cursor: pointer;
-}
-.user p {
-	color: #fff;
-	cursor: pointer;
-}
-.user img, .user p {
-	opacity: 1;
 }
 /*Common things in all sections*/
 #Subject_section,#about_section, #team_section, #contactus_section {
