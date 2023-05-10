@@ -101,27 +101,6 @@ menu {
 	cursor: pointer;
 	margin: 10px;
 }
-.user {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-top: 10%;
-}
-.user img {
-	width: 60px;
-	border-radius: 50%;
-	border: 2px solid #fff;
-	filter: drop-shadow(0 10px 20px #0004);
-	margin-right: 30px;
-	cursor: pointer;
-}
-.user p {
-	color: #fff;
-	cursor: pointer;
-}
-.user img, .user p {
-	opacity: 1;
-}
 
 .get-started {
 	margin-left: 50px;
