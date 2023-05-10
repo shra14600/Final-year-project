@@ -11,13 +11,6 @@ body {
 	display: flex;
 	justify-content: center;
 }
-.logo {
-	display: flex;
-	justify-content: center;
-}
-.logo img {
-	width: 100px;
-}
 .form-box
 {
 	width: 380px;
@@ -61,19 +54,6 @@ body {
 	border-radius: 30px;
 	transition: 0.5s;
 }
-.social-icons
-{
-	margin: 30px auto;
-	text-align: center;
-}
-.social-icons img
-{
-	width: 30px;
-	margin: 0 7px;
-	cursor: pointer;
-	opacity: 0.85;
-}
-
 .input-group
 {
 	top: 180px;
