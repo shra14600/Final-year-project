@@ -8,7 +8,7 @@
     />
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Comaptible" content="IE=edge" />
-    <title>Learn with AEC</title>
+    <title>LearnWithAEC</title>
     <meta name="desciption" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" type="text/css" href="style.css" />
@@ -20,8 +20,7 @@
     <header id="header">
       <nav>
         <div class="logo">
-          <img src="images/icon/learn logo - Copy.jpg" alt="logo" />Learn with
-          AEC
+          <img src="images/icon/learn logo - Copy.jpg" alt="logo" />LearnWithAEC
         </div>
         <ul>
           <li><a class="active" href="">Home</a></li>
@@ -40,12 +39,9 @@
       </nav>
       <div class="head-container">
         <div class="quote">
-          <p>A good education is a foundation for a better future</p>
+          <p>Success consists of going from failure to failure without loss of enthusiasm</p>
           <h5>
-            Education is the process of facilitating learning, or the
-            acquisition of knowledge, skills, values, beliefs, and habits.
-            Educational methods include teaching, training, storytelling,
-            discussion and directed research!
+          Education is the passport to the future, for tomorrow belongs to those who prepare for it today.
           </h5>
         </div>
         <div class="svg-image">
@@ -69,7 +65,7 @@
 
     <!-- ABOUT -->
     <div class="diffSection" id="about_section">
-      <center><p style="font-size: 50px; padding: 100px">About</p></center>
+      <center><p style="font-size: 50px; font-family:'cursive'; padding: 100px">About</p></center>
       <div class="about-content">
         <div class="side-image">
           <img class="sideImage" src="images/extra/about img.jpg" />
@@ -96,8 +92,8 @@
     <!-- Some Popular Subjects -->
     <div class="diffSection" id="Subject_section">
       <center>
-        <p style="font-size: 50px; padding: 100px">
-          Subjects on Learn with AEC
+        <p style="font-size: 50px; font-family:'cursive'; padding: 100px">
+          Subjects on LearnWithAEC
         </p>
       </center>
       <br /><br />
@@ -122,7 +118,7 @@
     <!-- TEAM -->
     <div class="diffSection" id="team_section">
       <center>
-        <p style="font-size: 50px; padding-top: 100px; padding-bottom: 60px">
+        <p style="font-size: 50px; font-family:'cursive'; padding-top: 100px; padding-bottom: 60px">
           We are the Creators
         </p>
       </center>
@@ -223,7 +219,7 @@
 
     <!-- CONTACT US -->
     <div class="diffSection" id="contactus_section">
-      <center><p style="font-size: 50px; padding: 100px">Contact Us</p></center>
+      <center><p style="font-size: 50px; font-family:'cursive'; padding: 100px">Contact Us</p></center>
       <div class="csec"></div>
       <div class="back-contact">
         <div class="cc">
