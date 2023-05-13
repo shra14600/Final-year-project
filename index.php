@@ -30,7 +30,7 @@
           <li><a href="#team_section">Team</a></li>
           <li><a href="#contactus_section">Contact</a></li>
         </ul>
-        <a class="get-started" href="login.html">Get Started</a>
+        <a class="get-started" href="login.php">Get Started</a>
         <img
           src="images/icon/menu.png"
           class="menu"
@@ -56,7 +56,7 @@
             <img src="images/icon/close.png" alt="" />
           </div>
           <ul>
-            <li><a href="login.html">Get Started</a></li>
+            <li><a href="login.php">Get Started</a></li>
             <li><a href="#about_section">About</a></li>
             <li><a href="#Subject_section">Subjects</a></li>
             <li><a href="#team_section">Team</a></li>
@@ -105,14 +105,14 @@
         <center>
           <div class="cbox">
             <div class="det">
-              <a href="subjects/cse.html">Computer Science</a>
+              <a href="subjects/cse.php">Computer Science</a>
             </div>
             <div class="det">
-              <a href="subjects/it.html">Information Technology</a>
+              <a href="subjects/it.php">Information Technology</a>
             </div>
-            <div class="det"><a href="subjects/ece.html">ECE</a></div>
+            <div class="det"><a href="subjects/ece.php">ECE</a></div>
             <div class="det">
-              <a href="subjects/ee.html">Electrical Engineering</a>
+              <a href="subjects/ee.php">Electrical Engineering</a>
             </div>
           </div>
         </center>

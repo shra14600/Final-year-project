@@ -11,13 +11,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
     <!-- It will redirect to the Home Page after submitting the form -->
-    <script>
-      $(document).ready(function () {
-        $("form").submit(function () {
-          alert("Great Job !");
-        });
-      });
-    </script>
+    
   </head>
   <body>
     <div class="form-box">
@@ -38,7 +32,7 @@
       </div>
 
       <!-- Login Form -->
-      <form id="login" class="input-group" action="index.html">
+      <form id="login" class="input-group" action="index.php">
         <div class="inp">
           <img src="images/icon/user.png" /><input
             type="text"
@@ -74,31 +68,33 @@
       </div>
 
       <!-- Registration Form -->
-      <form id="register" class="input-group">
+      <form action="registration.php" method="post" id="register" class="input-group">
         <input
           type="text"
           class="input-field"
           placeholder="Full Name"
           required="required"
+          name="full_name"
         />
         <input
           type="email"
           class="input-field"
           placeholder="Email Address"
           required="required"
+          name="email_address"
         />
         <input
           type="password"
           class="input-field"
           placeholder="Create Password"
-          name="psame"
+          name="pass"
           required="required"
         />
         <input
           type="password"
           class="input-field"
           placeholder="Confirm Password"
-          name="psame"
+          name="pass"
           required="required"
         />
         <input
@@ -107,9 +103,8 @@
           id="chkAgree"
           onclick="goFurther()"
         />I agree to the Terms & Conditions
-        <button type="submit" id="btnSubmit" class="submit-btn reg-btn">
-          Register
-        </button>
+        <input type="submit" value="Register" id="btnSubmit" class="submit-btn"/>
+
       </form>
     </div>
     <script type="text/javascript" src="script.js"></script>
