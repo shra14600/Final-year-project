@@ -62,10 +62,11 @@
         </div>
       </div>
     </header>
+    
 
     <!-- ABOUT -->
     <div class="diffSection" id="about_section">
-      <center><p style="font-size: 50px; font-family:'Cursive'; padding: 100px">About</p></center>
+      <center><p style="font-size: 50px; font-family:cursive; padding: 100px">About</p></center>
       <div class="about-content">
         <div class="side-image">
           <img class="sideImage" src="images/extra/about img.jpg" />
@@ -92,7 +93,7 @@
     <!-- Some Popular Subjects -->
     <div class="diffSection" id="Subject_section">
       <center>
-        <p style="font-size: 50px; font-family:'Cursive'; padding: 100px">
+        <p style="font-size: 50px; font-family:cursive; padding: 100px">
           Subjects on LearnWithAEC
         </p>
       </center>
@@ -118,7 +119,7 @@
     <!-- TEAM -->
     <div class="diffSection" id="team_section">
       <center>
-        <p style="font-size: 50px; font-family:'Cursive'; padding-top: 100px; padding-bottom: 60px">
+        <p style="font-size: 50px; font-family:cursive; padding-top: 100px; padding-bottom: 60px">
           We are the Creators
         </p>
       </center>
@@ -219,7 +220,7 @@
 
     <!-- CONTACT US -->
     <div class="diffSection" id="contactus_section">
-      <center><p style="font-size: 50px; font-family:'Cursive'; padding: 100px">Contact Us</p></center>
+      <center><p style="font-size: 50px; font-family:cursive; padding: 100px">Contact Us</p></center>
       <div class="csec"></div>
       <div class="back-contact">
         <div class="cc">
