@@ -26,6 +26,7 @@
           <li><a class="active" href="">Home</a></li>
           <li><a href="#about_section">About</a></li>
           <li><a href="#Subject_section">Subjects</a></li>
+          <li><a href="#place_section">Placement</a></li>
           <li><a href="#team_section">Team</a></li>
           <li><a href="#contactus_section">Contact</a></li>
         </ul>
@@ -55,6 +56,7 @@
             <li><a href="login.php">Get Started</a></li>
             <li><a href="#about_section">About</a></li>
             <li><a href="#Subject_section">Subjects</a></li>
+            <li><a href="#place_section">Placement</a></li>
             <li><a href="#team_section">Team</a></li>
             <li><a href="#contactus_section">Contact</a></li>
             <li><a href="#feedBACK">Feedback</a></li>
@@ -111,6 +113,29 @@
             <div class="det">
               <a href="subjects/ee.php">Electrical Engineering</a>
             </div>
+          </div>
+        </center>
+      </div>
+    </div>
+
+    <!-- Placement papers -->
+    <div class="diffSection" id="place_section">
+      <center>
+        <p style="font-size: 50px; font-family:cursive; padding: 100px">
+          Websites for Placement Papers
+        </p>
+      </center>
+      <br /><br />
+      <div class="course">
+        <center>
+          <div class="cbox">
+            <div class="det">
+              <a href="placement/apti.php">Aptitude</a>
+            </div>
+            <div class="det">
+              <a href="placement/coding.php">Coding</a>
+            </div>
+            <div class="det"><a href="placement/theory.php">Theory</a></div>
           </div>
         </center>
       </div>
