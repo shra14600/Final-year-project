@@ -7,7 +7,7 @@
       href="../images/icon/learn logo - Copy.jpg"
     />
     <title>Coding</title>
-    <link rel="stylesheet" type="text/css" href="subjects.css" />
+    <link rel="stylesheet" type="text/css" href="placement.css" />
     <script type="text/javascript" src="../script.js"></script>
   </head>
   <style></style>
@@ -23,17 +23,6 @@
       </div>
     </div>
 
-    <!-- Quick Links -->
-    <!-- <div class="course">
-      <div class="cbox">
-      <div class="det"><a href="apti1">C</a></div>
-        <div class="det"><a href="apti2">C++</a></div>
-        <div class="det"><a href="apti3">Java</a></div>
-        <div class="det"><a href="apti4">Python</a></div>
-        <div class="det"><a href="apti5">Data Structures and Algorithms</a></div>
-      </div>
-    </div>
-    <br /> -->
     <div class="semesters">
       
       <table class="content-table">
@@ -49,13 +38,13 @@
             <td>C</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/c-programming-examples/"
                 >Click here</a
               >
             </td>
@@ -64,13 +53,13 @@
             <td>C++</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-mathematics-1a-bsm-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-mathematics-1a-bsm-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/cc-programs/"
                 >Click here</a
               >
             </td>
@@ -79,13 +68,13 @@
             <td>Java</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-basic-electrical-engineering-es-ee-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-mathematics-1a-bsm-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/java-programming-examples/"
                 >Click here</a
               >
             </td>
@@ -94,13 +83,13 @@
             <td>Python</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/python-programming-examples/"
                 >Click here</a
               >
             </td>
@@ -109,13 +98,13 @@
             <td>DSA</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://workat.tech/problem-solving/practice/topics"
                 >Click here</a
               >
             </td>
@@ -124,13 +113,13 @@
             <td>Html</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=BsDoLVMnmZs"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/programming-for-beginners-10-best-html-coding-practices-you-must-know/"
                 >Click here</a
               >
             </td>
@@ -139,13 +128,13 @@
             <td>CSS</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=ua24185-rcw&list=PLH8iQ-rTfw2-lp7oienYPq9JT3rc-B_9p"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.w3resource.com/html-css-exercise/main-html-css-exercises.php"
                 >Click here</a
               >
             </td>
@@ -154,13 +143,13 @@
             <td>JavaScript</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.w3resource.com/javascript-exercises/"
                 >Click here</a
               >
             </td>
@@ -169,13 +158,13 @@
             <td>MySQL</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.youtube.com/watch?v=7S_tz1z_5bA&t=2983s"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.w3resource.com/mysql-exercises/"
                 >Click here</a
               >
             </td>

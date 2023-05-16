@@ -169,7 +169,7 @@ button {
 }
 /*Common things in all sections*/
 #Subject_section,
-#about_section,
+#about_section,#place_section,
 #team_section,
 #contactus_section {
   font-family: "Open Sans", sans-serif;

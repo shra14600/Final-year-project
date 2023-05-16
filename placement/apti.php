@@ -7,7 +7,7 @@
       href="../images/icon/learn logo - Copy.jpg"
     />
     <title>Aptitude</title>
-    <link rel="stylesheet" type="text/css" href="subjects.css" />
+    <link rel="stylesheet" type="text/css" href="placement.css" />
     <script type="text/javascript" src="../script.js"></script>
   </head>
   <style></style>
@@ -26,11 +26,11 @@
     <!-- Quick Links -->
     <div class="course">
       <div class="cbox">
-        <div class="det"><a href="apti1">Arithmetic Aptitude</a></div>
-        <div class="det"><a href="apti2">Logical Reasoning</a></div>
-        <div class="det"><a href="apti3">Verbal Ability</a></div>
-        <div class="det"><a href="apti4">Non Verbal Reasoning</a></div>
-        <div class="det"><a href="apti5">Data Interpretation</a></div>
+        <div class="det"><a href="#apti1">Arithmetic Aptitude</a></div>
+        <div class="det"><a href="#apti2">Logical Reasoning</a></div>
+        <div class="det"><a href="#apti3">Verbal Ability</a></div>
+        <div class="det"><a href="#apti4">Non Verbal Reasoning</a></div>
+        <div class="det"><a href="#apti5">Data Interpretation</a></div>
       </div>
     </div>
     <br />

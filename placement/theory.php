@@ -6,8 +6,8 @@
       type="png"
       href="../images/icon/learn logo - Copy.jpg"
     />
-    <title>Coding</title>
-    <link rel="stylesheet" type="text/css" href="subjects.css" />
+    <title>Theory</title>
+    <link rel="stylesheet" type="text/css" href="placement.css" />
     <script type="text/javascript" src="../script.js"></script>
   </head>
   <style></style>
@@ -15,7 +15,7 @@
     <!-- NAVIGATION -->
 
     <div class="title">
-      <center><span>Improve your Coding Skills</span></center>
+      <center><span>Learn with Theory</span></center>
       <div class="shortdesc">
         <center>
           <p>Learn your basic concepts to prepare for your placement drive</p>
@@ -38,19 +38,19 @@
             <td>C</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/c-programming-language/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -59,19 +59,19 @@
             <td>C++</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-mathematics-1a-bsm-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/c-plus-plus/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-mathematics-1a-bsm-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -80,19 +80,19 @@
             <td>Java</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-basic-electrical-engineering-es-ee-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/java/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-mathematics-1a-bsm-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -101,19 +101,19 @@
             <td>Python</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/python-programming-language/?ref=shm"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -122,19 +122,19 @@
             <td>DSA</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -143,19 +143,19 @@
             <td>OOPs Concept</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -164,19 +164,19 @@
             <td>Operating Systems</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/operating-systems/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -185,19 +185,19 @@
             <td>Computer Networks</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/computer-network-tutorials/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -206,19 +206,19 @@
             <td>Software Engineering</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/software-engineering/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -228,19 +228,19 @@
             <td>Html</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/html/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -249,19 +249,19 @@
             <td>CSS</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/css/?ref=shm"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -270,19 +270,19 @@
             <td>JavaScript</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/javascript/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -291,19 +291,19 @@
             <td>DBMS</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/dbms/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
@@ -312,19 +312,19 @@
             <td>MySQL</td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href="https://www.geeksforgeeks.org/sql-tutorial/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href="https://www.makaut.com/papers/btech-1-sem-physics-1-ph-101-2020.pdf"
+                href=""
                 >Click here</a
               >
             </td>
