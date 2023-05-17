@@ -1,3 +1,4 @@
+<!-- database connection using mysqli object oriented method -->
 <?php
 $servername = "localhost";
 $username = "root";
