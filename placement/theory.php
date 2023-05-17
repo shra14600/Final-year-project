@@ -44,13 +44,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/50-c-language-mcqs-with-answers/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/c-interview-questions/"
                 >Click here</a
               >
             </td>
@@ -65,13 +65,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.interviewbit.com/cpp-mcq/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/cpp-interview-questions/"
                 >Click here</a
               >
             </td>
@@ -86,13 +86,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/50-java-language-mcqs-with-answers-2/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/interview-questions-for-java-professionals/"
                 >Click here</a
               >
             </td>
@@ -107,13 +107,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.interviewbit.com/python-mcq/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/python-interview-questions/"
                 >Click here</a
               >
             </td>
@@ -128,13 +128,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/top-50-data-structures-mcqs-with-answers/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/"
                 >Click here</a
               >
             </td>
@@ -149,13 +149,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.interviewbit.com/oops-mcq/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/oops-interview-questions/"
                 >Click here</a
               >
             </td>
@@ -170,13 +170,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.interviewbit.com/operating-system-mcq/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/commonly-asked-operating-systems-interview-questions/"
                 >Click here</a
               >
             </td>
@@ -191,13 +191,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.interviewbit.com/computer-network-mcq/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/networking-interview-questions/"
                 >Click here</a
               >
             </td>
@@ -212,13 +212,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.interviewbit.com/software-engineering-mcq/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/top-50-software-engineering-interview-questions-and-answers/"
                 >Click here</a
               >
             </td>
@@ -234,13 +234,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://engineeringinterviewquestions.com/html-mcqs/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/html-interview-questions-answers-set-1/"
                 >Click here</a
               >
             </td>
@@ -255,13 +255,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://engineeringinterviewquestions.com/html-mcqs/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/css-interview-questions-and-answers/"
                 >Click here</a
               >
             </td>
@@ -276,13 +276,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.interviewbit.com/javascript-mcq/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/javascript-interview-questions-and-answers/"
                 >Click here</a
               >
             </td>
@@ -297,13 +297,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/50-dbms-mcqs-with-answers/"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/"
                 >Click here</a
               >
             </td>
@@ -318,13 +318,13 @@
             </td>
             <td>
               <a
-                href=""
+                href="https://www.interviewbit.com/sql-mcq/#what-does-blob-in-sql-stand-for"
                 >Click here</a
               >
             </td>
             <td>
               <a
-                href=""
+                href="https://www.geeksforgeeks.org/sql-interview-questions/"
                 >Click here</a
               >
             </td>
