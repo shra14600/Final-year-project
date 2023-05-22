@@ -86,6 +86,7 @@ body {
 #register .input-field {
   color: rgba(0, 0, 0, 0.8);
 }
+
 .submit-btn {
   width: 85%;
   padding: 10px 30px;
@@ -102,6 +103,7 @@ body {
 .reg-btn {
   background: lightgray;
 }
+
 .check-box {
   cursor: pointer;
   margin: 30px 10px 30px 0;

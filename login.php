@@ -22,7 +22,7 @@
           class="toggle-btn"
           id="log"
           onclick="login()"
-          style="color: #fff"
+          style="color: black"
         >
           Log In
         </button>
@@ -68,7 +68,7 @@
           placeholder="Email Address"
           required="required"
           name="email_address"
-        />
+        /> 
         <input
           type="password"
           class="input-field"
