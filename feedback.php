@@ -3,7 +3,6 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "feedback form";
-// $errors = [];
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

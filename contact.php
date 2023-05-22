@@ -16,26 +16,6 @@ if (!empty($_POST)) {
    $lname = $_POST["lname"];
    $emailid = $_POST["emailid"];
    $message = $_POST["msg"];
-   
-  
- 
-   if (empty($fname)) {
-       $errors[] = 'First name is empty';
-   }
-
-   if (empty($lname)) {
-       $errors[] = 'Last name is empty';
-   }
-
-   if (empty($emailid)) {
-       $errors[] = 'Email is empty';
-   } else if (!filter_var($emailid, FILTER_VALIDATE_EMAIL)) {
-       $errors[] = 'Email is invalid';
-   }
-
-   if (empty($message)) {
-       $errors[] = 'Message is empty';
-   }
 }
 $sql =  "INSERT INTO contact (fname,lname,emailid,msg)
 VALUES ('$fname','$lname', '$emailid','$message')";

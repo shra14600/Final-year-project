@@ -93,7 +93,7 @@
       </div>
     </div>
 
-    <!-- Some Popular Subjects -->
+    <!-- Subjects -->
     <div class="diffSection" id="Subject_section">
       <center>
         <p style="font-size: 50px; font-family:cursive; padding: 100px">

@@ -15,16 +15,6 @@ if(!empty($_POST)){
   $full_name=$_POST["full_name"];
   $email=$_POST["email_address"];
   $pass=$_POST["pass"];
-  
-  if(empty($full_name)){
-    $errors[] = 'Full name is empty.';
-  }
-  if(empty($email)){
-    $errors[] = 'Email id is empty.';
-  }
-  if(empty($pass)){
-    $errors[] = 'Password is empty.';
-  }
 }
 
 
