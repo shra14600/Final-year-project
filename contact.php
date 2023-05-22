@@ -3,7 +3,6 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "contact us";
-// $errors = [];
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -13,11 +12,13 @@ if ($conn->connect_error) {
 }
 
 if (!empty($_POST)) {
-   $fname = $_POST['fname'];
-   $lname = $_POST['lname'];
-   $emailid = $_POST['emailid'];
-   $message = $_POST['msg'];
+   $fname = $_POST["fname"];
+   $lname = $_POST["lname"];
+   $emailid = $_POST["emailid"];
+   $message = $_POST["msg"];
+   
   
+ 
    if (empty($fname)) {
        $errors[] = 'First name is empty';
    }

@@ -253,7 +253,7 @@
           <form
             action="contact.php"
             method="post"
-            enctype="text/plain"
+            id="contact" class="input-group"
           >
             <label>First Name <span class="imp">*</span></label
             ><label style="margin-left: 185px"
@@ -285,12 +285,10 @@
             <input
               type="text"
               name="msg"
-              style="width: 100%"
+              style="width: 100%; height: 40%"
               required="required"
             /><br />
-            <label>Additional Details</label><br />
-            <textarea name="addtional"></textarea><br />
-            <button type="submit" id="csubmit">Send Message</button>
+            <input type="submit" value="Send message" id="btnSubmit" class="submit-btn"/>
           </form>
         </div>
       </div>
@@ -307,17 +305,17 @@
     <div class="feedbox">
       <div class="feed">
         <form
-          action="mailto:tssp.aec23@gmail.com"
+          action="feedback.php"
           method="post"
-          enctype="text/plain"
+          id="contact" class="input-group"
         >
           <label>Your Name</label><br />
-          <input type="text" name="" class="fname" required="required" /><br />
+          <input type="text" name="f_name" class="fname" required="required" /><br />
           <label>Email</label><br />
-          <input type="email" name="mail" required="required" /><br />
+          <input type="email" name="email" required="required" /><br />
           <label>Additional Details</label><br />
-          <textarea name="addtional"></textarea><br />
-          <button type="submit" id="csubmit">Send Message</button>
+          <textarea name="detail"></textarea><br />
+          <input type="submit" value="Send message" id="btnSubmit" class="submit-btn"/>
         </form>
       </div>
     </div>

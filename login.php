@@ -32,40 +32,26 @@
       </div>
 
       <!-- Login Form -->
-      <form id="login" class="input-group" action="index.php">
-        <div class="inp">
-          <img src="images/icon/user.png" /><input
-            type="text"
-            id="email"
-            class="input-field"
-            placeholder="Username or Phone Number"
-            style="width: 88%; border: none"
-            required="required"
+      <form id="login" class="input-group" action="login_verification.php" method="post">
+        <input
+          type="text"
+          class="input-field"
+          placeholder="email address"
+          required="required"
+          name="email_address"
           />
-        </div>
-        <div class="inp">
-          <img src="images/icon/password.png" /><input
-            type="password"
-            id="password"
-            class="input-field"
-            placeholder="Password"
-            style="width: 88%; border: none"
-            required="required"
+        
+        <input
+        type="password"
+          class="input-field"
+          placeholder="Password"
+          name="pass"
+          required="required"
           />
-        </div>
+        
         <input type="checkbox" class="check-box" />Remember Password
-        <button type="submit" class="submit-btn">Log In</button>
+        <input type="submit" value="Login" id="btnSubmit" class="submit-btn"/>
       </form>
-      <br /><br />
-
-      <div class="other" id="other">
-        <div class="instead">
-          <h3>or</h3>
-        </div>
-        <button class="connect" onclick="google()">
-          <img src="images/icon/google.png" /><span>Sign in with Google</span>
-        </button>
-      </div>
 
       <!-- Registration Form -->
       <form action="registration.php" method="post" id="register" class="input-group">

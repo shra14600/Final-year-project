@@ -11,14 +11,10 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
+
 if(!empty($_POST)){
-  $full_name=$_POST["full_name"];
   $email=$_POST["email_address"];
   $pass=$_POST["pass"];
-  
-  if(empty($full_name)){
-    $errors[] = 'Full name is empty.';
-  }
   if(empty($email)){
     $errors[] = 'Email id is empty.';
   }
@@ -28,12 +24,17 @@ if(!empty($_POST)){
 }
 
 
-$sql =  "INSERT INTO user (full_name, email_address,pass)
-VALUES ('$full_name', '$email', '$pass')";
-if ($conn->query($sql) === TRUE) {
-  echo '<script>alert("You have registered successfully")</script>';
+$sql =  "SELECT * from user where email_address='$email' and pass='$pass'" ;
+$result = $conn->query($sql);
+
+if ($result) {
+    if ($result->num_rows > 0) {
+        header("Location: index.php");
+    } else {
+        echo 'user not found!';
+    }
 } else {
-  echo "Error: " . $sql . "<br>" . $conn->error;
+    echo 'Error: ' . mysqli_error();
 }
 
 $conn->close();

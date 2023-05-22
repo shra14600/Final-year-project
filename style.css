@@ -438,6 +438,28 @@ button {
   color: #2e3d49;
   font-weight: 600;
 }
+.submit-btn {
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background: linear-gradient(to right, #fa4b37, #df2771);
+  color: #fff;
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+}
+#btn {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 110px;
+  height: 100%;
+  background: linear-gradient(to right, #fa4b37, #df2771);
+  border-radius: 30px;
+  transition: 0.5s;
+}
 .imp {
   color: red;
 }
