@@ -491,7 +491,7 @@
           </div>
           <br /><br />
           <p class="rights-text">
-            Copyright © 2023 Created By Sidhi Raj, T Jaya Lakshmi, Shraddha
+            Copyright © 2023 Created By Sidhi Raj, T Jay Lakshmi, Shraddha
             Kumari and Poonam Kumari All Rights Reserved.
           </p>
           <br />

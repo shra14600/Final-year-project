@@ -14,6 +14,7 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script type="text/javascript" src="script.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js"></script>
   </head>
   <body>
     <!-- Navigation Bar -->
@@ -250,7 +251,7 @@
       <div class="back-contact">
         <div class="cc">
           <form
-            action="mailto:tssp.aec23@gmail.com"
+            action="contact.php"
             method="post"
             enctype="text/plain"
           >
@@ -261,7 +262,7 @@
             <center>
               <input
                 type="text"
-                name=""
+                name="fname"
                 style="margin-right: 10px; width: 175px"
                 required="required"
               /><input
@@ -275,7 +276,7 @@
             ><br />
             <input
               type="email"
-              name="mail"
+              name="emailid"
               style="width: 100%"
               required="required"
             /><br />
@@ -283,7 +284,7 @@
             ><br />
             <input
               type="text"
-              name="message"
+              name="msg"
               style="width: 100%"
               required="required"
             /><br />
@@ -354,7 +355,7 @@
           </div>
           <br /><br />
           <p class="rights-text">
-            Copyright © 2023 Created By Sidhi Raj, T Jaya Lakshmi, Shraddha
+            Copyright © 2023 Created By Sidhi Raj, T Jay Lakshmi, Shraddha
             Kumari and Poonam Kumari All Rights Reserved.
           </p>
           <br />
