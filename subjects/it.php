@@ -173,6 +173,13 @@
                 >Click here</a
               >
             </td>
+            <td>
+              <a
+                href="https://canvas.instructure.com/courses/2258661/files/127086649?module_item_id=42820917"
+                target="_blank"
+                >Click here</a
+              >
+            </td>
           </tr>
           <tr class="active-row">
             <td>Mathematics-III</td>

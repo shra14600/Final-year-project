@@ -22,8 +22,7 @@
           class="toggle-btn"
           id="log"
           onclick="login()"
-          style="color: black"
-        >
+          style="color: black">
           Log In
         </button>
         <button type="button" class="toggle-btn" id="reg" onclick="register()">
@@ -38,16 +37,14 @@
           class="input-field"
           placeholder="email address"
           required="required"
-          name="email_address"
-          />
+          name="email_address"/>
         
         <input
         type="password"
           class="input-field"
           placeholder="Password"
           name="pass"
-          required="required"
-          />
+          required="required"/>
         
         <input type="checkbox" class="check-box" />Remember Password
         <input type="submit" value="Login" id="btnSubmit" class="submit-btn"/>

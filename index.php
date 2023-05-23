@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link
-      rel="shortcut icon"
-      type="png"
-      href="images/icon/learn logo - Copy.jpg"
-    />
+    <link rel="shortcut icon" type="png" href="images/icon/learn logo - Copy.jpg"/>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Comaptible" content="IE=edge" />
     <title>LearnWithAEC</title>
@@ -32,12 +28,7 @@
           <li><a href="#contactus_section">Contact</a></li>
         </ul>
         <a class="get-started" href="login.php">Get Started</a>
-        <img
-          src="images/icon/menu.png"
-          class="menu"
-          onclick="sideMenu(0)"
-          alt="menu"
-        />
+        <img src="images/icon/menu.png"  class="menu"  onclick="sideMenu(0)" alt="menu"/>
       </nav>
       <div class="head-container">
         <div class="quote">
@@ -153,31 +144,25 @@
         <div class="card">
           <center>
             <img
-              src="images/creator/WhatsApp Image 2023-05-07 at 16.04.16.jpg"
-            />
+              src="images/creator/WhatsApp Image 2023-05-07 at 16.04.16.jpg" />
           </center>
           <center>
-            <div class="card-title">T. Jaya Lakshmi</div>
+            <div class="card-title">T. Jay Lakshmi</div>
             <div id="detail">
               <p>
                 "You can teach a student a lesson for a day; but if you can
                 teach him to learn by creating curiosity, he will continue the
                 learning process as long as he lives."
               </p>
-              <div class="duty"></div>
-              <a
-                href="https://www.linkedin.com/mwlite/in/t-jay-lakshmi"
-                target="_blank"
-                ><button class="btn-tjaya">Follow</button></a
-              >
+              <a href="https://www.linkedin.com/mwlite/in/t-jay-lakshmi" target="_blank">
+              <button class="btn-tjaya">Follow</button></a>
             </div>
           </center>
         </div>
         <div class="card">
           <center>
             <img
-              src="images/creator/WhatsApp Image 2023-05-07 at 16.37.26.jpg"
-            />
+              src="images/creator/WhatsApp Image 2023-05-07 at 16.37.26.jpg"/>
           </center>
           <center>
             <div class="card-title">Sidhi Raj</div>
@@ -187,20 +172,15 @@
                 best out of our own students. What better books can there be
                 than the book of humanity"
               </p>
-              <div class="duty"></div>
-              <a
-                href="https://www.linkedin.com/in/sidhi-raj-0b04741ba/"
-                target="_blank"
-                ><button class="btn-sidhi">Follow</button></a
-              >
+              <a href="https://www.linkedin.com/in/sidhi-raj-0b04741ba/" target="_blank">
+              <button class="btn-sidhi">Follow</button></a>
             </div>
           </center>
         </div>
         <div class="card">
           <center>
             <img
-              src="images/creator/00100sPORTRAIT_00100_BURST20201114155630930_COVER.jpg"
-            />
+              src="images/creator/00100sPORTRAIT_00100_BURST20201114155630930_COVER.jpg"/>
           </center>
           <center>
             <div class="card-title">Shraddha Kumari</div>
@@ -210,12 +190,8 @@
                 way around: only when he grows does he have roots and feels at
                 home in the world."
               </p>
-              <div class="duty"></div>
-              <a
-                href="https://www.linkedin.com/in/shraddha-kumari-76ba561b7/"
-                target="_blank"
-                ><button class="btn-shra">Follow</button></a
-              >
+              <a href="https://www.linkedin.com/in/shraddha-kumari-76ba561b7/" target="_blank">
+              <button class="btn-shra">Follow</button></a>
             </div>
           </center>
         </div>
@@ -232,12 +208,8 @@
                 static, safe mediocrity. Usually, growth comes at the expense of
                 previous comfort or safety."
               </p>
-              <div class="duty"></div>
-              <a
-                href="https://www.linkedin.com/in/poonam-kumari-5a99341b3/"
-                target="_blank"
-                ><button class="btn-poo">Follow</button></a
-              >
+              <a href="https://www.linkedin.com/in/poonam-kumari-5a99341b3/" target="_blank">
+              <button class="btn-poo">Follow</button></a>
             </div>
           </center>
         </div>
@@ -253,8 +225,7 @@
           <form
             action="contact.php"
             method="post"
-            id="contact" class="input-group"
-          >
+            id="contact" class="input-group">
             <label>First Name <span class="imp">*</span></label
             ><label style="margin-left: 185px"
               >Last Name <span class="imp">*</span></label
@@ -329,15 +300,15 @@
       direction="left"
       onmouseover="this.stop()"
       onmouseout="this.start()"
-      scrollamount="15"
-      ><div class="marqu">
+      scrollamount="15">
+      <div class="marqu">
         “Education is the passport to the future, for tomorrow belongs to those
         who prepare for it today.” “Your attitude, not your aptitude, will
         determine your altitude.” “If you think education is expensive, try
         ignorance.” “The only person who is educated is the one who has learned
         how to learn …and change.”
-      </div></marquee
-    >
+      </div>
+    </marquee>
 
     <!-- FOOTER -->
     <footer>
