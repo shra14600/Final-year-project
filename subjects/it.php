@@ -175,7 +175,7 @@
             </td>
             <td>
               <a
-                href="https://canvas.instructure.com/courses/2258661/files/127086649?module_item_id=42820917"
+                href="https://drive.google.com/drive/u/0/folders/12CH0HrtkI1njhM-Hj47CroeURNrq7yLa"
                 target="_blank"
                 >Click here</a
               >

@@ -22,7 +22,7 @@
         <ul>
           <li><a class="active" href="">Home</a></li>
           <li><a href="#about_section">About</a></li>
-          <li><a href="#Subject_section">Subjects</a></li>
+          <li><a href="#Subject_section">Course</a></li>
           <li><a href="#place_section">Placement</a></li>
           <li><a href="#team_section">Team</a></li>
           <li><a href="#contactus_section">Contact</a></li>
