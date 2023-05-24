@@ -7,7 +7,7 @@
       href="images/icon/learn logo - Copy.jpg"
     />
     <title>Login SignUp</title>
-    <link rel="stylesheet" type="text/css" href="loginStyle.css" />
+    <link rel="stylesheet" type="text/css" href="loginStyle.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
     <!-- It will redirect to the Home Page after submitting the form -->
